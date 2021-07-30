@@ -16,4 +16,5 @@ Hi there 👋
 
 ## 📈 My Github status
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayoub0x1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
+
