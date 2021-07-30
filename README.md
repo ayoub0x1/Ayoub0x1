@@ -1,9 +1,11 @@
 Hi there 👋
+---------------------
 
-🔭 I’m currently an Independent Security Researcher and a Cybersecurity Engineer Student at 1337 School
-🌱 I’m currently learning: Cybersecurity, DevSecOps, Red teaming and more ...
-📫 How to reach me: twitter.com/ayoub0x1
-⚡ Fun fact: I love manipulating keyboards <3
+
+- 🔭 I’m currently a Cybersecurity Engineer Student at 1337 School
+- 🌱 I’m currently learning: Cybersecurity, DevSecOps, Red teaming and more ...
+- 📫 How to reach me: twitter.com/ayoub0x1
+- ⚡ Fun fact: I love manipulating keyboards <3
 
 
 
