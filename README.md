@@ -21,4 +21,4 @@ Hi there 👋
 
 [![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/aymoulou)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
 
-![Anurag's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/aymoulou?cardType=github&theme=radical)
+![Ayoub0x1's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical)
