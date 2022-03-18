@@ -1,8 +1,6 @@
 Hi there 👋
 ---------------------
 
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ayoub0x1&&color=blue&style=flat-square"></p>
-
 - 🔭 I’m currently a Cybersecurity Engineer Student at 1337 School
 - 🌱 I’m currently learning: Cybersecurity, DevSecOps, Red teaming and more ...
 - 📫 How to reach me: twitter.com/ayoub0x1
