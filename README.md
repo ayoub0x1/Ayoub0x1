@@ -14,8 +14,6 @@ Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
 
 
-## 👨‍💻 My 42 status
-
-[![aymoulou's 42 stats](Will be updates soon)
-
-
+### 👨‍💻 My 42 status (It will updated soon)
+<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=aymoulou)](https://github.com/ayoub0x1) -->
+<!-- [![aymouloi's 42 stats](https://badge42.herokuapp.com/api/stats/aymoulou?cursus=C%20reloaded)](https://github.com/ayoub0x1) -->
