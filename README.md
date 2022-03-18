@@ -16,20 +16,6 @@ Hi there 👋
 
 ## 👨‍💻 My 42 status
 
-[![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/aymoulou)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
+[![aymoulou's 42 stats](Will be updates soon)
 
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/ayoub0x1"
-
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/ayoub0x1"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/ayoub0x1"
