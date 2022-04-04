@@ -14,10 +14,9 @@ Hi there 👋
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
 </p>
 
-<p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
+<p align="left">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
 </p>
-![ayoub's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub0x1&theme=redical)
 
 ### 👨‍💻 My 42 status
 
