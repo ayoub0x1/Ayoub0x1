@@ -18,7 +18,7 @@ Hi there 👋
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
 </p>
 
-![BariMehdi77's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=barimehdi77&theme=redical)
+![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub0x1&theme=redical)
 
 ### 👨‍💻 My 42 status
 
