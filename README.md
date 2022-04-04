@@ -10,7 +10,7 @@ Hi there 👋
 ## 📈 My Github status
 
 <p align="center">
-  <img width="45%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
+  <img width="42%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
 </p>
 
