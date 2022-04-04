@@ -12,9 +12,7 @@ Hi there 👋
 <p align="center">
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)" />
 </p>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
 
