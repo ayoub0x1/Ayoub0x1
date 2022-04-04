@@ -16,5 +16,4 @@ Hi there 👋
 
 ### 👨‍💻 My 42 status (It will be updated soon)
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=aymoulou)](https://github.com/ayoub0x1) -->
-<!-- [![aymouloi's 42 stats](https://badge42.herokuapp.com/api/stats/aymoulou?cursus=C%20reloaded)](https://github.com/ayoub0x1) -->
-
+[![aymoulou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/ayoub0x1/Ayoub0x1/main/README.md)
