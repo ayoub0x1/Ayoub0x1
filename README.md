@@ -9,6 +9,11 @@ Hi there 👋
 
 ## 📈 My Github status
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barimehdi77&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=barimehdi77&theme=radical" />
+</p>
+
 ![Ayoub0x1's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
 
