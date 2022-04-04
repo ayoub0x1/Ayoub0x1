@@ -18,6 +18,8 @@ Hi there 👋
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
 </p>
 
+![BariMehdi77's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=barimehdi77&theme=redical)
+
 ### 👨‍💻 My 42 status
 
 [![aymoulou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/ayoub0x1/Ayoub0x1/main/README.md)
