@@ -14,7 +14,6 @@ Hi there 👋
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
 </p>
 
-<br><br>
 
 [<img align="right" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
 [<img align="right" alt="young | HTB" width="38px" src="https://media.discordapp.net/attachments/825798322673025084/884091379012206713/RJZMUY81IQLQ.png" />][HTB]
