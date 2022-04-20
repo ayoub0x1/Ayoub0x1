@@ -6,15 +6,6 @@ Hi there 👋
 - 📫 How to reach me: twitter.com/ayoub0x1
 - ⚡ Fun fact: I love manipulating keyboards <3
 
-
-## 📈 My Github status
-
-<p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
-</p>
-
-
 [<img align="center" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
 [<img align="center" alt="young | HTB" width="38px" src="https://media.discordapp.net/attachments/825798322673025084/884091379012206713/RJZMUY81IQLQ.png" />][HTB]
 
@@ -22,6 +13,12 @@ Hi there 👋
 [HTB]: https://www.hackthebox.eu/profile/252510
 [twitter]: https://twitter.com/ayoub0x1
 
+## 📈 My Github status
+
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
+</p>
 
 <p align="left">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
