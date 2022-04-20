@@ -18,6 +18,17 @@ Hi there 👋
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
 </p>
 
+<br><br>
+
+[<img align="left" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
+[<img align="left" alt="young | HTB" width="38px" src="https://media.discordapp.net/attachments/825798322673025084/884091379012206713/RJZMUY81IQLQ.png" />][HTB]
+[<img align="left" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
+
+
+[HTB]: https://www.hackthebox.eu/profile/252510
+[twitter]: https://twitter.com/Y0ung_MA
+[medium]: https://y0ungdst.medium.com
+
 ![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub0x1&theme=redical)
 
 ### 👨‍💻 My 42 status
