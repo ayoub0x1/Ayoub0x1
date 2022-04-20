@@ -20,7 +20,7 @@ Hi there 👋
 
 
 [HTB]: https://www.hackthebox.eu/profile/252510
-[twitter]: https://twitter.com/Y0ung_MA
+[twitter]: https://twitter.com/ayoub0x1
 
 
 <p align="left">
