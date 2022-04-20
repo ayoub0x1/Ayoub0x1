@@ -15,7 +15,7 @@ Hi there 👋
 </p>
 
 
-[<img align="right" alt="young | Twitter" width="30px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
+[<img align="right" alt="young | Twitter" width="3px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
 [<img align="right" alt="young | HTB" width="38px" src="https://media.discordapp.net/attachments/825798322673025084/884091379012206713/RJZMUY81IQLQ.png" />][HTB]
 [<img align="right" alt="young | medium" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" />][medium]
 
