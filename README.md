@@ -14,17 +14,6 @@ Hi there 👋
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
 </p>
 
-<p align="left">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
-</p>
-
-
-![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub0x1&theme=redical)
-
-### 👨‍💻 My 42 status
-
-[![aymoulou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/ayoub0x1/Ayoub0x1/main/README.md)
-
 <br><br>
 
 [<img align="left" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
@@ -35,3 +24,14 @@ Hi there 👋
 [HTB]: https://www.hackthebox.eu/profile/252510
 [twitter]: https://twitter.com/Y0ung_MA
 [medium]: https://y0ungdst.medium.com
+
+<p align="left">
+   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
+</p>
+
+
+![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub0x1&theme=redical)
+
+### 👨‍💻 My 42 status
+
+[![aymoulou's 42 stats](https://badge42.vercel.app/api/v2/cl1kxonbk023209jmqkb8mbrn/stats?cursusId=21&coalitionId=73)](https://github.com/ayoub0x1/Ayoub0x1/main/README.md)
