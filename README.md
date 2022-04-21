@@ -8,7 +8,6 @@ Hi there 👋
 
 [<img align="center" alt="young | Twitter" width="38px" src="https://media.discordapp.net/attachments/635278809741918218/965786404942647306/unknown.png" />][twitter]
 [<img align="center" alt="young | HTB" width="38px" src="https://media.discordapp.net/attachments/825798322673025084/884091379012206713/RJZMUY81IQLQ.png" />][HTB]
-[![Discord Presence](https://lanyard.cnrad.dev/api/ayoub0x1#4552)](https://discord.com/users/ayoub0x1#4552)
 
 [HTB]: https://app.hackthebox.com/profile/803489
 [twitter]: https://twitter.com/ayoub0x1
