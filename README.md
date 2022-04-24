@@ -1,6 +1,8 @@
 Hi there 👋
 ---------------------
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 🔭 I’m currently a Cybersecurity Engineer Student at 1337 School
 - 🌱 I’m currently learning: Cybersecurity, DevSecOps, Red teaming and more ...
 - 📫 How to reach me: twitter.com/ayoub0x1
