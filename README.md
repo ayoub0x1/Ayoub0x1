@@ -20,7 +20,7 @@ Hi there 👋
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub0x1&theme=radical" />
 </p>
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <p align="left">
    <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=ayoub0x1&show_icons=true&theme=radical" />
 </p>
