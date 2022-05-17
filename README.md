@@ -22,7 +22,7 @@ Hi there 👋
 </p>
 
 <p align="left">
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub0x1&layout=compact&theme=radical" />
+   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=ayoub0x1&show_icons=true&theme=radical" />
 </p>
 
 
