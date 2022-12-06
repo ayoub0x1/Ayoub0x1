@@ -26,6 +26,3 @@ Hi there 👋
    <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=ayoub0x1&show_icons=true&theme=radical" />
 </p>
 
-
-![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ayoub0x1&theme=redical)
-
